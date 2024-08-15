@@ -1,0 +1,78 @@
+# Compiled binary
+/bin/
+/obj/
+/out/
+
+# VS Code directories
+.vscode/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Azure DevOps/Visual Studio artifact cache
+**/[Aa]rtifacts/
+**/[Bb]in/
+**/[Oo]bj/
+**/[Ll]og/
+
+# Visual Studio Working Directory Cache
+.vs/
+
+# Local History for Visual Studio Code
+.history/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Rider directories
+.idea/
+
+# NuGet packages
+*.nupkg
+packages/
+**/packages/
+
+# NuGet package binaries
+*.dll
+*.exe
+
+# Mac specific files
+.DS_Store
+
+# Logs
+*.log
+
+# Publish output
+**/publish/
+**/publishoutput/
+
+# User secrets
+secrets.json
+
+# DotNet local tools
+**/.config/dotnet-tools.json
+
+# Coverage results
+coverage/
+coverage.info
